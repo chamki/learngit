@@ -6,4 +6,3 @@ Creating a new branch is quick and simple.
 Git is good and effect.
 I love git.
 I am learning git.
-
